@@ -2,4 +2,4 @@ site_name: test
 site_url: https://poiqazwsx.github.io/mkdocs-test
 theme:
   palette:
-    primary: indigo
+    primary: black
