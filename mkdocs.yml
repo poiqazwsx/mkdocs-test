@@ -1,4 +1,4 @@
 site_name: test
-site_url: poiqazwsx.github.io/mkdocs-test
+site_url: http://poiqazwsx.github.io/mkdocs-test
 theme:
   name: material
