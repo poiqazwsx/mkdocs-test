@@ -1,4 +1,5 @@
 site_name: test
 site_url: https://poiqazwsx.github.io/mkdocs-test
 theme:
-  name: material
+  palette:
+    primary: indigo
