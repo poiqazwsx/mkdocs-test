@@ -5,3 +5,9 @@ theme:
   palette:
     scheme: slate
     accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
