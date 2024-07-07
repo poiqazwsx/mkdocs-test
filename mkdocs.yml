@@ -1,0 +1,4 @@
+site_name: test
+site_url: https://poiqazwsx/mkdocs-test/
+theme:
+  name: material
